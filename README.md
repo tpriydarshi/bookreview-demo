@@ -1,4 +1,4 @@
 # bookreview-demo
 Demo of RAG based book review and suggestion bot.
-<br
+<br>
 Author - Tanmay Priydarshi
